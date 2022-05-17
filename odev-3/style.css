@@ -1,3 +1,45 @@
 body {
     background-color: bisque;
 }
+
+.h2 {
+    color: brown;
+    font-style: italic;
+}
+
+#introduction {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#title {
+    margin-left: 3rem;
+}
+
+.heading {
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    border-radius: 1rem;
+}
+
+.info {
+    color: brown;
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px;
+    text-decoration: underline;
+    margin-left: 1rem;
+}
+
+.afiyet {
+    font-size: 1.5rem;
+    float: right;
+    margin-right: 15rem;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.div {
+    margin-left: 35rem;
+}
