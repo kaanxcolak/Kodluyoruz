@@ -13,11 +13,16 @@ h2 {
     margin-left: 48rem;
 }
 
+h3 {
+    margin-left: 28rem;
+}
+
 body {
     background-color: blanchedalmond;
 }
 
-div {
+.div {
+    display: inline-block;
     margin-left: 40rem;
     padding: 5px;
 }
@@ -27,8 +32,10 @@ div {
     margin-left: 45rem;
 }
 
-p {
-    margin-left: 27rem;
+.cesitler {
+    padding-left: 550px;
 }
 
-ol {}
+row {
+    margin-left: 48rem;
+}
