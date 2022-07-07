@@ -1,0 +1,63 @@
+/* Class Selectors */
+
+.google {
+    text-align: -webkit-center;
+    margin-bottom: 0;
+}
+
+.article1 {
+    margin: 0 70px 0;
+    background-color: rgb(232, 224, 224);
+    text-align: -webkit-center;
+}
+
+.input {
+    margin-top: 0;
+    padding: 0 60px;
+}
+
+.box1 {
+    width: 33%;
+    text-align: -webkit-center;
+    float: left;
+    background-color: rgb(126, 229, 218);
+    margin: 1px 1px 1px 70px;
+    padding: 18px 10px;
+}
+
+.box2 {
+    width: 16%;
+    text-align: -webkit-center;
+    float: left;
+    background-color: rgb(112, 204, 194);
+    margin: 1px 1px;
+    padding: 9px 10px;
+}
+
+.box3 {
+    width: 38%;
+    text-align: -webkit-center;
+    float: left;
+    background-color: rgb(90, 200, 199);
+    margin: 1px;
+    padding: 5px 7px;
+}
+
+
+/* Element Selectors */
+
+button {
+    display: inline-block;
+}
+
+h4 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+footer {
+    display: inline-block;
+    width: 100%;
+    text-align: -webkit-center;
+    padding-top: 10px;
+}
