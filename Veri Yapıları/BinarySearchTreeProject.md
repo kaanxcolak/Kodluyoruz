@@ -9,3 +9,9 @@
 |   Açıklama    |  |  |  |
 |--             |- |- |- |
 |**root=7**     |- |7 |- |
+
+2. 5 sayısı 7'den küçük sola ekleriz.
+|   Açıklama    |  |  |  |
+|               |- |- |7 |
+|               |- |/ |- |
+|**5 ekledim**  |5 |- |- |
