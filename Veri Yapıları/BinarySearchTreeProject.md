@@ -6,4 +6,5 @@
 ---
 1.İkili arama ağacında temel kural düğümün solundakilerin düğümden küçük; düğümün sağındakilerin düğümden büyük olmasıdır. Bu durum sayesinde sıralı yapıyı elde ederiz.
 
-|   Açıklama    | | | |
+|   Açıklama    |  |  |  |
+|--             |- |- |- |
