@@ -5,4 +5,4 @@
 ---
 1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 ---
-| Aşamalar | Gösterim | 
+|Aşamalar | Gösterim | 
