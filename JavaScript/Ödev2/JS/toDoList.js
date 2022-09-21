@@ -3,7 +3,7 @@
 let taskDOM = document.querySelector("#task") //task inputun ID'si. Bunu alıp taskDOM'a atadım
 let listDOM = document.querySelector("#list") //list ve ul ID'si kullanılarak listDOM'a atandı
 let ulLength = document.getElementsByTagName("li") //burada  bütün li elementlerini ulLength'e atadım ve kaç tane li varsa onu anlamış oluruz
-let btnDOM = document.querySelector("liveToastBtn") //ekle yazan buton seçimi için liveToastBtn id'sini btnDOM'a atadım
+let btnDOM = document.querySelector("#liveToastBtn") //ekle yazan buton seçimi için liveToastBtn id'sini btnDOM'a atadım
 
 
 
