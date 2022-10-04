@@ -48,3 +48,8 @@ let values = Object.values(laptop1)
 values.forEach(value => {
     console.log("value: ", value)    
 })
+
+let setting = {
+    password: 1234,
+    userName: 'user1'
+}
