@@ -1,25 +1,3 @@
-app.js
-Erişimi olanlar
-R
-Sistem özellikleri
-Tür
-JavaScript
-Boyut
-2 KB
-Kullanılan depolama alanı
-2 KBSahibi: Kodluyoruz Derneği
-Konum
-asiankitchen
-Sahibi
-Rukiye Beyza Sarıkaya
-Değiştirilme:
-6 Ağu 2021 tarihinde Rukiye Beyza Sarıkaya tarafından
-Açıldı
-03:40 tarihinde benim tarafımdan
-Oluşturulma tarihi
-6 Eyl 2021
-Açıklama yok
-Görüntüleyenler indirebilir
 const menu = [
   {
     id: 1,
