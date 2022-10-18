@@ -32,7 +32,7 @@ h2 {
 }
 
 .photo {
-    width: 30%;
+    width: 200px;
     height: 175px;
     object-fit: cover;
     border: 0.25rem solid black;
